@@ -1,0 +1,13 @@
+const names=require('./4-names')
+const sayHi= require('./5-utile')
+const data=require('./6-Alternative-Flavor')
+require('./7-mind-grenade')
+
+//console.log(names)
+// sayHi("susan");
+// sayHi(names.peter); 
+// sayHi(names.jhon)
+// console.log(data.singlePerson);
+// console.log(data);
+// console.log(data.items);
+
